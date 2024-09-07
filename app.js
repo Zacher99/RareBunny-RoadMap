@@ -40,7 +40,6 @@ function pesquisar() {
                     <div class="item-resultado">
                         <h3>${tecnologia}</h3>
                         <p>${tecnologias[tecnologia]}</p>
-                        <a href="https://reactjs.org/docs/getting-started.html" target="_blank">Documentação</a>
                     </div>
                 `;
             }
