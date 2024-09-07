@@ -25,4 +25,4 @@ Gostei muito de desenvolver este projeto. Estou começando na área de tecnologi
 
 Apesar de ter tido pouco tempo para me dedicar ao projeto devido ao meu estudo para obter a certificação AWS Practitioner, consegui avançar bastante em dois dias de trabalho. Foi uma ótima experiência e agregou muito conhecimento à minha jornada na tecnologia.
 
-Para mais informações e atualizações, fique atento ao repositório [Rare Bunny no GitHub](https://github.com/seuusuario/rare-bunny).
+Link do projeto na Vercel [RareBunny RoadMap ](https://rare-bunny-road-map.vercel.app/).
