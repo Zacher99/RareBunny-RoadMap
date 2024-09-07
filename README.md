@@ -1,6 +1,14 @@
 # RareBunny RoadMap - Imersão Dev com Alura e Google Gemini.
 
+
+
 **Rare Bunny** é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
+
+## Experiência de Desenvolvimento
+
+Gostei muito de desenvolver este projeto. Estou começando na área de tecnologia e foi muito gratificante aprender a utilizar a inteligência artificial para nos auxiliar na tarefa. O projeto permite que as pessoas pesquisem as tecnologias que precisam estudar em sua área, o que achei um tema interessante e relevante.
+
+Apesar de ter tido pouco tempo para me dedicar ao projeto devido ao meu estudo para obter a certificação AWS Practitioner, consegui avançar bastante em dois dias de trabalho. Foi uma ótima experiência e agregou muito conhecimento à minha jornada na tecnologia.
 
 ## Funcionalidades
 
@@ -18,11 +26,5 @@ A aplicação abrange várias áreas da tecnologia, incluindo:
 - **Cloud**: Soluções e serviços baseados em nuvem.
 
 Cada área contém uma lista de tecnologias e suas descrições, facilitando a compreensão das opções disponíveis em cada campo.
-
-## Experiência de Desenvolvimento
-
-Gostei muito de desenvolver este projeto. Estou começando na área de tecnologia e foi muito gratificante aprender a utilizar a inteligência artificial para nos auxiliar na tarefa. O projeto permite que as pessoas pesquisem as tecnologias que precisam estudar em sua área, o que achei um tema interessante e relevante.
-
-Apesar de ter tido pouco tempo para me dedicar ao projeto devido ao meu estudo para obter a certificação AWS Practitioner, consegui avançar bastante em dois dias de trabalho. Foi uma ótima experiência e agregou muito conhecimento à minha jornada na tecnologia.
 
 Link do projeto na Vercel [RareBunny RoadMap ](https://rare-bunny-road-map.vercel.app/).
