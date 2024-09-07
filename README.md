@@ -2,7 +2,7 @@
 
 
 
-**Rare Bunny** é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
+**RareBunny RoadMap** é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
 
 ## Experiência de Desenvolvimento
 
